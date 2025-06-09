@@ -1,104 +1,96 @@
-<div align="center">
-	
-<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
-
-`A Man Who Codes & Designs Using His Hidden Creativity.`
-
-<a href="#"><img src="assets/technologist.png" width="150"></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 <p align="center">
-	<h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
+  <img src="./assets/technologist.png" alt="Jay Rathod Avatar" width="140" style="border-radius: 50%; border: 2px solid #222; box-shadow: 0 2px 8px #0002;" />
 </p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) <hr>
+<h1 align="center">Hi, I'm <span style="color:#6C63FF;">Jay Rathod</span></h1>
+<h3 align="center">Software Engineer</h3>
 
-## 🙋🏻‍♂️ **About Me**
-
-Creative Full Stack Web Developer & Designer specializing in crafting captivating Websites & Apps. My focus on user-centric design, creative development, and effective collaboration, i can also elevate the brand presence with my design expertise. Till now i build 50+ WEB APP. 
-Most importantly, I'm a reliable designer you can rely on for all your design needs.
-</div><hr>
-
-<div align="center">
-
-## 🤝🏻 **CONNECT WITH ME**
-
-<a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
-    <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>
-<a href="https://x.com/warrior_aashuu"> 
-    <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
-</a>
-<a href="mailto:hellow.ashutosh@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a>
-<a href="https://www.instagram.com/warrior_aashuu/"> 
-    <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a>
-<a href="https://www.youtube.com/@creativityofaashu"> 
-    <img src="https://img.shields.io/badge/YouTube-00384d?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
-</a>
-<a href="https://in.pinterest.com/codeaashu/"> 
-    <img src="https://img.shields.io/badge/Pinterest-00384d?style=for-the-badge&logo=pinterest&logoColor=white" title="Pinterest"  alt="Pinterest"/>
-</a>
-<a href="https://hashnode.com/@codeaashu"> 
-    <img src="https://img.shields.io/badge/hashnode-00384d?style=for-the-badge&logo=hashnode&logoColor=white" title="Hashnode"  alt="Hashnode"/>
-</a>
-<a href="https://www.figma.com/@codeaashu"> 
-    <img src="https://img.shields.io/badge/Figma-00384d?style=for-the-badge&logo=figma&logoColor=white" title="Figma"  alt="Figma"/>
-</a>
-<a href="https://www.fiverr.com/warrior_aashuu"> 
-    <img src="https://img.shields.io/badge/Fiverr-00384d?style=for-the-badge&logo=fiverr&logoColor=white" title="Fiverr"  alt="Fiverr"/>
-</a>
-<a href="https://www.reddit.com/user/warrior_aashuu/"> 
-    <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" title="Reddit"  alt="Reddit"/>
-</a>
-<a href="https://discord.com/channels/@warrior_aashuu"> 
-    <img src="https://img.shields.io/badge/Discord-00384d?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
-</a>
-<a href="https://dev.to/codeaashu"> 
-    <img src="https://img.shields.io/badge/Dev-00384d?style=for-the-badge&logo=dev&logoColor=white" title="Dev"  alt="Dev"/>
-</a>
-<a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
-    <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
-</a><br>
-
-
-<img src="assets/hi.gif" width="150">
-
-
-<h2 align="center">Dev Legacy!<h2>  
 <p align="center">
-  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevPioneerpng.gif" alt="Dev Pioneer" height="200" width="200" /></a>
-  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevEnhancerpng.gif" alt="Dev Enhancer" height="200" width="200" /></a>
-  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevInnovatorpng.gif" alt="Dev Innovator" height="200" width="200" /></a>
+  Passionate about secure, intelligent systems.
 </p>
 
-<!--<div align="center">
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Confetti%20Ball.webp" alt="Confetti Ball" width="25" height="25" /> Dev Legacy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Confetti%20Ball.webp" alt="Confetti Ball" width="25" height="25" /></h1>
+---
 
-| <img src="assets/DevPioneerpng.gif"> | <img src="assets/DevEnhancerpng.gif"> | <img src="assets/DevInnovatorpng.gif"> |
-| ------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- |
-
-</div>-->
+## 👨‍💻 About Me
 
 
-<h3 align="center">📊 My Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&theme=algolia" alt="codeaashu" /></a> </p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaashu&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" />
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&border=true&border_color=00ACC1&theme=algolia&disable_animations=true" alt="codeaashu" /></p>
-</p>
-</div> <hr>
+- 🔭 Currently working on **full-stack web applications**
+- 🌱 Learning **cybersecurity techniques**
+- 👯 Open to collaborating on **open-source projects**
+- 💬 Ask me about **Java, Python, or building secure systems**
+- ⚡ Fun fact: **I can solder circuits while debugging Java code!**
+
+📍 Based in **Sudbury, Ontario, Canada**  
+🌐 Portfolio: [jay-rathod-github.github.io](https://jay-rathod-github.github.io/)  
+📫 Reach me: [GitHub Issues](https://github.com/neversettlejay/neversettlejay/issues)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**Backend:**  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+**Security & DevOps:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+**Robotics & AI:**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<a href="#"><img src="assets/githubgif.gif" width="150"></a>
-	
-### **Thanks for checking out my GitHub Profile!**  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neversettlejay&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neversettlejay&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
- ## 💌 Sponser
+---
 
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codeaashu)
+## 🔥 Featured Projects
 
-</div>  
+<div align="center">
+  <a href="https://github.com/neversettlejay/limonav">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=neversettlejay&repo=limonav&theme=tokyonight" alt="Limonav Project" />
+  </a>
+  <a href="https://github.com/neversettlejay/ecommerce">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=neversettlejay&repo=ecommerce&theme=tokyonight" alt="E-commerce Project" />
+  </a>
+  <a href="https://github.com/neversettlejay/networkInfra_ccna">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=neversettlejay&repo=networkInfra_ccna&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/jayneversettle">
+    <img src="https://img.shields.io/badge/-Twitter/X-1DA1F2?logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/jayrathod-ca">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/jayneversettle/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neversettlejay&color=blueviolet" alt="Profile views" />
+</p>
